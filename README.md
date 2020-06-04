@@ -99,3 +99,4 @@ Each theme comes with full support for all of Vuetify's features including compo
 * Built on the #1 Vue framework, Vuetify
 
 Still have **questions** about this theme? Reach out to us by [email](mailto:shop@vuetifyjs.com).
+"# vuetify-app" 
